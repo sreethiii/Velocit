@@ -7,3 +7,5 @@ outputs/
 *.log
 *.DS_Store
 .env
+# Ignore large video files
+*.mp4
